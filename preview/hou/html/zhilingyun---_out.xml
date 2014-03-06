@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="">
+  <view fovmode="0" pannorth="0">
+    <start pan="0" fov="60" tilt="0"/>
+    <min pan="0" fov="45" tilt="-90"/>
+    <max pan="360" fov="75" tilt="90"/>
+  </view>
+  <userdata title="" datetime="2013:12:24 15:02:17" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+    <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(1)" id="Poly01">
+      <vertex pan="21.0842" tilt="15.1198"/>
+      <vertex pan="-22.2307" tilt="14.8416"/>
+      <vertex pan="-16.4991" tilt="-2.99713"/>
+      <vertex pan="15.6236" tilt="-2.46374"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(2)" id="Poly02">
+      <vertex pan="66.9709" tilt="13.742"/>
+      <vertex pan="51.4386" tilt="12.9208"/>
+      <vertex pan="49.9229" tilt="-9.870889999999999"/>
+      <vertex pan="64.0188" tilt="-10.7582"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(3)" id="Poly03">
+      <vertex pan="87.8432" tilt="14.1972"/>
+      <vertex pan="70.2414" tilt="14.3496"/>
+      <vertex pan="70.35460000000001" tilt="-11.0789"/>
+      <vertex pan="85.4294" tilt="-11.4769"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(4)" id="Poly04">
+      <vertex pan="97.7744" tilt="-4.40779"/>
+      <vertex pan="86.1194" tilt="-4.01754"/>
+      <vertex pan="85.5689" tilt="-14.7948"/>
+      <vertex pan="96.9545" tilt="-15.336"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(5)" id="Poly05">
+      <vertex pan="113.695" tilt="14.1794"/>
+      <vertex pan="94.9033" tilt="14.0504"/>
+      <vertex pan="97.569" tilt="-9.833360000000001"/>
+      <vertex pan="111.492" tilt="-9.540419999999999"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(6)" id="Poly06">
+      <vertex pan="123.217" tilt="-1.85402"/>
+      <vertex pan="113.624" tilt="-1.40421"/>
+      <vertex pan="112.204" tilt="-15.9105"/>
+      <vertex pan="121.601" tilt="-15.5354"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(7)" id="Poly07">
+      <vertex pan="138.246" tilt="13.5503"/>
+      <vertex pan="120.861" tilt="13.9665"/>
+      <vertex pan="122.256" tilt="-11.0632"/>
+      <vertex pan="137.651" tilt="-10.666"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(8)" id="Poly08">
+      <vertex pan="147.082" tilt="-2.38927"/>
+      <vertex pan="137.785" tilt="-2.69916"/>
+      <vertex pan="136.517" tilt="-15.7426"/>
+      <vertex pan="147.112" tilt="-15.7706"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(9)" id="Poly09">
+      <vertex pan="163.247" tilt="13.3484"/>
+      <vertex pan="144.533" tilt="13.6215"/>
+      <vertex pan="147.597" tilt="-11.6434"/>
+      <vertex pan="161.666" tilt="-11.1054"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(10)" id="Poly10">
+      <vertex pan="-170.103" tilt="13.5084"/>
+      <vertex pan="170.457" tilt="13.8481"/>
+      <vertex pan="170.647" tilt="-9.85547"/>
+      <vertex pan="-172.525" tilt="-8.950110000000001"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(11)" id="Poly11">
+      <vertex pan="-162.634" tilt="2.47248"/>
+      <vertex pan="-170.961" tilt="2.43936"/>
+      <vertex pan="-173.052" tilt="-15.7647"/>
+      <vertex pan="-162.634" tilt="-14.7643"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(12)" id="Poly12">
+      <vertex pan="-144.628" tilt="12.4446"/>
+      <vertex pan="-163.719" tilt="14.0844"/>
+      <vertex pan="-161.872" tilt="-9.32436"/>
+      <vertex pan="-147.303" tilt="-9.402699999999999"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(13)" id="Poly13">
+      <vertex pan="-137.055" tilt="-2.93793"/>
+      <vertex pan="-147.045" tilt="-4.11065"/>
+      <vertex pan="-146.288" tilt="-16.1712"/>
+      <vertex pan="-136.594" tilt="-15.433"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(14)" id="Poly14">
+      <vertex pan="-119.653" tilt="13.0669"/>
+      <vertex pan="-139.195" tilt="14.2502"/>
+      <vertex pan="-136.629" tilt="-10.736"/>
+      <vertex pan="-123.126" tilt="-10.3841"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(15)" id="Poly15">
+      <vertex pan="-95.0775" tilt="13.4459"/>
+      <vertex pan="-112.4" tilt="12.8342"/>
+      <vertex pan="-112.738" tilt="-10.6019"/>
+      <vertex pan="-96.05889999999999" tilt="-10.2051"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(16)" id="Poly16">
+      <vertex pan="-70.59820000000001" tilt="12.9869"/>
+      <vertex pan="-87.2786" tilt="13.2684"/>
+      <vertex pan="-86.3081" tilt="-10.1848"/>
+      <vertex pan="-72.628" tilt="-8.55395"/>
+    </polyhotspot>
+    <polyhotspot title="" target="" url="javascript:window.parent.receiveUrl(17)" id="Poly17">
+      <vertex pan="-52.2821" tilt="12.0719"/>
+      <vertex pan="-66.3017" tilt="13.465"/>
+      <vertex pan="-64.3672" tilt="-10.5074"/>
+      <vertex pan="-53.3608" tilt="-8.21022"/>
+    </polyhotspot>
+  </hotspots>
+  <media/>
+  <input tile0url="images/zhilingyun--- - fuben_o_0.jpg" prev5url="images/zhilingyun--- - fuben_o_preview_5.jpg" prev4url="images/zhilingyun--- - fuben_o_preview_4.jpg" prev3url="images/zhilingyun--- - fuben_o_preview_3.jpg" prev2url="images/zhilingyun--- - fuben_o_preview_2.jpg" prev1url="images/zhilingyun--- - fuben_o_preview_1.jpg" prev0url="images/zhilingyun--- - fuben_o_preview_0.jpg" tile5url="images/zhilingyun--- - fuben_o_5.jpg" tilesize="2165" tile4url="images/zhilingyun--- - fuben_o_4.jpg" tile3url="images/zhilingyun--- - fuben_o_3.jpg" tilescale="1.004618937644342" tile2url="images/zhilingyun--- - fuben_o_2.jpg" tile1url="images/zhilingyun--- - fuben_o_1.jpg"/>
+  <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="1.00"/>
+  <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+</panorama>
